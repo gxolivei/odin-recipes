@@ -1,0 +1,36 @@
+.h1 {
+    font-size: 2.5em;
+    margin: 0 0 0.6em 0;
+    text-align: center;
+    background-image: linear-gradient(to bottom, beige 0%, greenyellow 50%, yellow 100%);
+    color: black;
+}
+
+#uo {  
+    text-align: center;
+    margin: auto;
+    font-size: 1.5em;
+}
+
+#uo .burger, 
+#uo .guacamole, 
+#uo .lasagna{
+    color: black;
+    border: 2px solid black;
+    padding: 15px;
+    border-radius: 0.3em;
+    cursor: pointer;
+    margin: 10px;
+}
+
+.burger {
+    background-color: beige;
+}
+
+.guacamole {
+    background-color: greenyellow;
+}
+
+.lasagna {
+    background-color: yellow;
+}
